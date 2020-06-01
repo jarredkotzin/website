@@ -1,0 +1,14 @@
+.name2 {
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-weight: lighter;
+    color: #2b2d42;
+  }
+
+canvas{
+    overflow: none
+  }
+
+body{
+    padding:0;
+    margin:0;
+}
